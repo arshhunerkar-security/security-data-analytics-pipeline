@@ -1,0 +1,8 @@
+event_id,timestamp,event_type,severity,host
+1001,2026-05-01 08:00:01,login_failed,low,WS01
+1002,2026-05-01 08:00:14,login_failed,low,WS01
+1003,2026-05-01 08:00:28,login_success,medium,WS01
+1004,2026-05-01 08:05:11,powershell_encoded,high,DC01
+1005,2026-05-01 08:07:41,privilege_escalation,critical,SRV02
+1006,2026-05-01 08:10:01,dns_anomaly,medium,FW01
+1007,2026-05-01 08:12:19,process_injection,critical,APP01
